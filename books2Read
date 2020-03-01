@@ -1,0 +1,4 @@
+Elements of reusable object-oritnted software Erich Gamm and co. GoF
+Крег Ларман - Применение UML и шаблонов проектирования
+Rebecca Wirfs-Brock et al., Designing Object-Oriented Software (Prentice-Hall, 1990) is a good place to begin.
+12 The only limitation that we’re aware of has to do with map-based constructors, which Groovy provides by
